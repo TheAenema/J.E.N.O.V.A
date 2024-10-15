@@ -15,8 +15,6 @@ By using Jenova Framework, You can program your entire game in C++ without any i
 
 **It is a dream come true!**
 
-Developed with 💙 and 🩸By Hamid.Memar
-
 ## 🛠️ Current Features
 - Very Fast & Reliable
 - Multi-Threaded Compilation & Source Caching
@@ -35,7 +33,7 @@ Developed with 💙 and 🩸By Hamid.Memar
 - Built-in Terminal Logging System (Customizable)
 - Asset Monitor System API (File/Directory Tracking)
 - On-Demand Reload Per Script Change
-- Lambada Signal Callbacks
+- Lambda Signal Callbacks
 - Advanced Menu Options
 - Supports Additional/External Headers & Libraries
 - Build And Run Mode (Build Before Play/Play After Build)
@@ -70,3 +68,6 @@ Developed with 💙 and 🩸By Hamid.Memar
 </h2>
 
 ***Jenova is a Free software.***
+
+
+Developed with 💙 and 🩸By Hamid.Memar
