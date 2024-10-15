@@ -14,6 +14,7 @@ With Projekt J.E.N.O.V.A, there are no limits. You can integrate OpenCV, CUDA, V
 By using Jenova Framework, You can program your entire game in C++ without any issues. It also provides security features to protect your code and assets in the future.
 
 **It is a dream come true!**
+
 Developed with 💙 and 🩸By Hamid.Memar
 
 ## 🛠️ Current Features
@@ -46,6 +47,8 @@ Developed with 💙 and 🩸By Hamid.Memar
 
 > [!IMPORTANT]  
 > Jenova Only Supports Godot 4.2+, Windows 7 to 11 x64, Linux and macOS support are not planned for now.
+> 
+> At the moment Jenova only provides MSVC Support, However you can use Visual Studio directly.
 
 > [!NOTE]  
 > Current builds doe not include the Virtual Machine and Emulator. While the code for these features is present, they are disabled because they are still heavily under development.
