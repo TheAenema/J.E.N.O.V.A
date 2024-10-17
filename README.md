@@ -44,9 +44,9 @@ By using Jenova Framework, You can program your entire game in C++ without any i
 - And Much More!
 
 > [!IMPORTANT]  
-> Jenova Only Supports Godot 4.2+, Windows 7 to 11 x64, Linux and macOS support are not planned for now.
-> 
+> Jenova Only Supports Godot 4.2+, Windows 7 to 11 x64, Linux and Mac support are not planned for now.
 > At the moment Jenova only provides MSVC Support, However you can use Visual Studio directly.
+> If you need C++ Scripting with support of Linux or Mac you can use [Godot Sandbox](https://github.com/libriscv/godot-sandbox).
 
 > [!NOTE]  
 > Current builds doe not include the Virtual Machine and Emulator. While the code for these features is present, they are disabled because they are still heavily under development.
